@@ -8,7 +8,7 @@ Je suis **Maxime Guigra**, un développeur web passionné spécialisé dans **Re
 - 🌱 Passionné par les projets open-source et la collaboration.
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=gmaxdev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gmaxdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🔧 Compétences & Technologies
