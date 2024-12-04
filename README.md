@@ -44,7 +44,7 @@ Je suis **Maxime Guigra**, un développeur web passionné spécialisé dans **Re
 ---
 
 ### 📊 Statistiques GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=gmaxdev&theme=dark&date_format=j%20M%5B%20Y%5D)]
+![GMaxDev Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmaxdev&layout=compact&theme=radical)
 
 ---
