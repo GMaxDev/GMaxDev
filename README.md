@@ -1,9 +1,5 @@
 # 👋 Bienvenue sur mon profil GitHub ! 
 
----
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gmaxdev?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
----
-
 ### 🎨 À propos de moi
 Je suis **Maxime Guigra**, un développeur web passionné spécialisé dans **React** et **JavaScript**. Toujours en quête de nouvelles compétences, je travaille sur divers projets innovants tout en perfectionnant mes connaissances dans le développement front-end et back-end.
 
@@ -48,7 +44,6 @@ Je suis **Maxime Guigra**, un développeur web passionné spécialisé dans **Re
 ---
 
 ### 📊 Statistiques GitHub
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmaxdev&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmaxdev&layout=compact&theme=radical)
 
 ---
