@@ -47,7 +47,4 @@ Je suis **Maxime Guigra**, un développeur web passionné spécialisé dans **Re
 
 ---
 
-### 🚀 Idées pour améliorer ton README
-1. **Ajouter un widget "Trophées"** pour gamifier ton profil :
-   ```markdown
-   ![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=gmaxdev&theme=onedark&no-frame=true)
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=gmaxdev&theme=onedark&no-frame=true)
