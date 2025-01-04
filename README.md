@@ -5,7 +5,7 @@ Je suis **Maxime Guigra**, un développeur frontend passionné spécialisé dans
 
 - 🚀 Viens de finir ma formation pour devenir développeur React avec OpenClassrooms.
 - 🛠️ En apprentissage constant de **Node.js**, **TypeScript**, des **API REST** et de **Next.js**
-- 🌱 Passionné par les projets open-source et la collaboration.
+- 🌱 Passionné par les projets open-source et la collaboration!
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=gmaxdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
