@@ -9,8 +9,6 @@ Je suis **Maxime Guigra**, un développeur frontend passionné spécialisé dans
 - 🎓 Adore apprendre constamment !
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=gmaxdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
 
 ### 🔧 Compétences & Technologies
 - **Langages & Frameworks :**  
