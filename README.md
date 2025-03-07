@@ -7,6 +7,7 @@ Je suis **Maxime Guigra**, un développeur frontend passionné spécialisé dans
 - 🛠️ En apprentissage constant de **Node.js**, **TypeScript**, des **API REST** et de **Next.js**
 - 🌱 Passionné par les projets open-source et la collaboration!
 - 🎓 Adore apprendre constamment !
+- 💡Cherche de nouveaux projets a réaliser!
 
 ---
 
