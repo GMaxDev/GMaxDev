@@ -6,7 +6,7 @@ Je suis **Maxime Guigra**, un développeur frontend passionné spécialisé dans
 - 🚀 Viens de finir ma formation pour devenir développeur React avec OpenClassrooms.
 - 🛠️ En apprentissage constant de **Node.js**, **TypeScript**, des **API REST** et de **Next.js**
 - 🌱 Passionné par les projets open-source et la collaboration!
-- 🎓 Adore apprendre constamment !
+- 🎓 Adore apprendre et creer  constamment !
 - 💡Cherche de nouveaux projets a réaliser!
 
 ---
