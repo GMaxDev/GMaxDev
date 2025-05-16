@@ -23,7 +23,6 @@ Je suis **Maxime Guigra**, un développeur frontend passionné spécialisé dans
 - **Outils & Plateformes :**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
   ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 
 ---
 
