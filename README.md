@@ -38,7 +38,7 @@ Je suis **Maxime Guigra**, développeur fullstack à Lyon. Onze ans d'audiovisue
 ### 🌟 Projets récents
 
 #### 🔥 **[Braisy](https://braisy.fr)**
-Application de révision gamifiée pour sapeurs-pompiers volontaires, en production sur l'App Store.
+Application de révision gamifiée pour sapeurs-pompiers volontaires, en production sur l'App Store et le Play Store.
 - Mode hors ligne pour les casernes à réseau irrégulier
 - Supabase avec Row Level Security pour isoler les données par utilisateur
 - 55 pompiers actifs, ~2 800 questions
